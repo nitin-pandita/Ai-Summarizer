@@ -1,8 +1,34 @@
-# React + Vite
+# Ai-Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Ai summarizer helps to extract a summary of a article url.*
 
-Currently, two official plugins are available:
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [About](#about)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+
+
+### Installation
+
+*Provide step-by-step instructions on how to install your project.*
+
+```bash
+# Clone the repository
+git clone https://github.com/nitin-pandita/Ai-Summarizer.git
+
+# Change to the project directory
+cd your-project
+
+# Install dependencies
+npm install
